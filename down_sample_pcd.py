@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author : Emmanuel Gonzalez
+Author : Ariyan Zarei, Emmanuel Gonzalez
 Date   : 2021-07-02
 Purpose: Point cloud down sampling. 
 """
